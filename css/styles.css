@@ -28,6 +28,10 @@ article{
   box-shadow: 0 10px 30px rgba(0,0,0,.06);
 }
 
+.recipe-image{
+  max-width: 300px;
+}
+
 .logo-wrap {
   width: 600px;
   display: block;
